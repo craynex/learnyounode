@@ -1,3 +1,7 @@
+/**
+ * Autor: Cristian Martin
+ */
+
 var filterFn = require('./6-filter');
 var dir = process.argv[2];
 var filterStr = process.argv[3];

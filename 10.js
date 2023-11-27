@@ -1,3 +1,7 @@
+/**
+ * Autor: Cristian Martin
+ */
+
 var net = require('net')
 
 function zeroFill(i) {

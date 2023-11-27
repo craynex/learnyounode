@@ -1,3 +1,7 @@
+/**
+ * Autor: Cristian Martin
+ */
+
 var http = require('http')
 var bl = require('bl')
 var results = []
